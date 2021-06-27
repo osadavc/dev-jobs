@@ -4,6 +4,9 @@
   "main": "app.js",
   "author": "Osada",
   "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
   "dependencies": {
     "json-server": "^0.16.3"
   }

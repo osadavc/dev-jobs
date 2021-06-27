@@ -9,7 +9,7 @@ document.querySelector(".new-job-submit").addEventListener("click", (e) => {
 
 const addNewJob = (jobTitle, jobImage, jobDescription) => {
   if (jobTitle && jobImage && jobDescription) {
-    axios.post("http://localhost:8080/jobs", {
+    axios.post("https://dev-jobs-backend.herokuapp.com/jobs", {
       logo: jobImage,
       roleName: jobTitle,
       requirements: {

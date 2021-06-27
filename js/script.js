@@ -7,7 +7,7 @@ document.querySelector(".button-container").addEventListener("click", () => {
 });
 
 const getJobs = () => {
-  return fetch("http://localhost:8080/jobs")
+  return fetch("https://dev-jobs-backend.herokuapp.com/jobs")
     .then((response) => response.json())
     .then((data) => {
       return data;
