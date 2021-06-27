@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DevJobs</title>
+
+    <link rel="stylesheet" href="css/style.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+    />
+  </head>
+  <body>
+    <header>
+      <div class="header-container max-width">
+        <div class="left">
+          <div class="logo">
+            <img
+              src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/284832/settings_images/rLlCifhXRJiT0RoN2FjK_Logo_roundbackground_black.png"
+            />
+          </div>
+          <span>CleverJobs</span>
+        </div>
+
+        <div class="right">
+          <div class="add-new"><a href="./new-job.html">Add New Job</a></div>
+        </div>
+      </div>
+    </header>
+
+    <div class="search max-width">
+      <div class="search-container">
+        <div class="input-container">
+          <i class="fas fa-search"></i>
+          <input
+            type="text"
+            name="filter-jobs"
+            id="filter-jobs"
+            placeholder="Filter By Title"
+          />
+        </div>
+        <div class="button-container">
+          <span>Find Job</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="jobs-list max-width">
+      <h1>Showing <span class="job-no">0</span> Jobs</h1>
+
+      <div class="jobs-container"></div>
+    </div>
+
+    <script
+      src="https://kit.fontawesome.com/9f365fa074.js"
+      crossorigin="anonymous"
+    ></script>
+    <script src="./js/script.js"></script>
+  </body>
+</html>

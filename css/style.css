@@ -1,0 +1,360 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather+Sans&family=Quicksand:wght@400;500&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  font-family: "Quicksand", sans-serif;
+  background-color: #171717;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+.max-width {
+  padding: 0 25px;
+  max-width: 1250px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+header {
+  background-color: #2c2c2c;
+  height: 70px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+header .header-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+header .header-container .left {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+header .header-container .left .logo {
+  height: 30px;
+  margin-right: 10px;
+}
+
+header .header-container .left .logo img {
+  height: 100%;
+}
+
+header .header-container .right .add-new {
+  cursor: pointer;
+  background-color: #da0037;
+  width: 150px;
+  height: 50px;
+  border-radius: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+  font-size: 17px;
+}
+
+header .header-container .right .add-new a {
+  color: white;
+  margin-bottom: 2px;
+}
+
+.search {
+  margin-top: 30px;
+}
+
+.search-container {
+  background-color: #1c1c24;
+  height: 60px;
+  border-radius: 10px;
+  border: 2px solid #222328;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  overflow: hidden;
+}
+
+.search-container .input-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-flex: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.search-container .input-container i {
+  font-size: 18px;
+  margin-left: 25px;
+}
+
+.search-container .input-container input {
+  -webkit-box-flex: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
+  background-color: transparent;
+  outline: none;
+  border: none;
+  color: white;
+  font-size: 18px;
+  margin-left: 16px;
+  font-family: "Quicksand", sans-serif;
+}
+
+.search-container .input-container input::-webkit-input-placeholder {
+  font-family: "Quicksand", sans-serif;
+}
+
+.search-container .input-container input:-ms-input-placeholder {
+  font-family: "Quicksand", sans-serif;
+}
+
+.search-container .input-container input::-ms-input-placeholder {
+  font-family: "Quicksand", sans-serif;
+}
+
+.search-container .input-container input::placeholder {
+  font-family: "Quicksand", sans-serif;
+}
+
+.search-container .button-container {
+  cursor: pointer;
+  background-color: #da0037;
+  width: 130px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+.search-container .button-container:hover {
+  background-color: #da0037a4;
+}
+
+.jobs-list {
+  background-color: #171717;
+  height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.jobs-list h1 {
+  margin: 15px 0 15px 25px;
+  font-size: 20px;
+}
+
+.jobs-list .jobs-container {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (1fr)[3];
+      grid-template-columns: repeat(3, 1fr);
+  gap: 40px;
+  padding-bottom: 60px;
+}
+
+.jobs-list .jobs-container .job-tile {
+  background-color: #1c1c24;
+  border-radius: 10px;
+  cursor: pointer;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  color: white;
+  padding: 30px;
+  -webkit-transition: -webkit-transform 0.3s ease;
+  transition: -webkit-transform 0.3s ease;
+  transition: transform 0.3s ease;
+  transition: transform 0.3s ease, -webkit-transform 0.3s ease;
+}
+
+.jobs-list .jobs-container .job-tile:hover {
+  -webkit-transform: scale(1.03) translateY(-15px);
+          transform: scale(1.03) translateY(-15px);
+}
+
+.jobs-list .jobs-container .job-tile .top {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.jobs-list .jobs-container .job-tile .top img {
+  width: 50px;
+  border-radius: 10px;
+}
+
+.jobs-list .jobs-container .job-tile .rolename {
+  margin: 20px 0px;
+  font-size: 22px;
+}
+
+.jobs-list .jobs-container .job-tile .description {
+  height: 110px;
+  overflow: hidden;
+  -webkit-box-flex: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
+}
+
+.jobs-list .jobs-container .job-tile .buttons {
+  margin-top: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  height: 45px;
+}
+
+.jobs-list .jobs-container .job-tile .buttons .button {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border-radius: 10px;
+  color: white;
+  background-color: #2e2e39;
+  font-size: 14px;
+}
+
+.jobs-list .jobs-container .job-tile .buttons .apply-now {
+  margin-right: 15px;
+  background-color: #da0037;
+  -webkit-transition: background-color 0.3s ease;
+  transition: background-color 0.3s ease;
+}
+
+.jobs-list .jobs-container .job-tile .buttons .apply-now:hover {
+  background-color: #da0037a4;
+}
+
+.new-job {
+  margin-top: 30px;
+}
+
+.new-job input,
+.new-job textarea {
+  display: block;
+  font-family: "Quicksand";
+  outline: none;
+  background-color: transparent;
+  color: white;
+  border: 2px solid #222328;
+  margin-bottom: 20px;
+  width: 100%;
+  height: 50px;
+  font-size: 16px;
+  padding: 20px;
+}
+
+.new-job textarea {
+  height: initial;
+  resize: none;
+}
+
+.new-job .new-job-submit {
+  cursor: pointer;
+  background-color: #da0037;
+  width: 150px;
+  height: 50px;
+  border-radius: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: white;
+  border: none;
+  font-family: "Quicksand";
+  font-size: 17px;
+  padding-bottom: 2px;
+}
+
+@media screen and (max-width: 930px) {
+  .jobs-container {
+    -ms-grid-columns: (1fr)[2] !important;
+        grid-template-columns: repeat(2, 1fr) !important;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .jobs-container {
+    -ms-grid-columns: (1fr)[1] !important;
+        grid-template-columns: repeat(1, 1fr) !important;
+  }
+}
+/*# sourceMappingURL=style.css.map */

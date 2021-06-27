@@ -1,0 +1,321 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "company": "TekStrea",
+      "logo": "https://pbs.twimg.com/profile_images/1871386426/TSIconButtonSM_400x400.png",
+      "roleName": "Pega Developer - 100% Remote",
+      "postedTime": "5h ago",
+      "type": "Full Time",
+      "location": "United States",
+      "website": "https://linkedin.com/TekStrea",
+      "applicationLink": "https://linkedin.com/TekStrea/apply",
+      "requirements": {
+        "intro": "A TekStrea client, a healthcare technology company, has an immediate need for a Pega Developer for a remote long term contract.  We're looking for an experienced developer to support defects, issues and development.",
+        "content": "The ideal candidate is as passionate about solving challenges through technology.",
+        "items": [
+          "Needs to be experienced in the PEGA platform on at least 7.22 with PEGA 8.x preferred.",
+          "Pega Marketing or Pega Customer Decision Hub certification (for developers).",
+          "Blues experience highly preferred, Healthcare experience required.",
+          "Must be USA based and open to work standard business hours of 8-5pm ET."
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "company": "Facebook",
+      "logo": "https://media-exp1.licdn.com/dms/image/C560BAQGrV5i4K9YdhQ/company-logo_200_200/0/1621582241755?e=1632960000&v=beta&t=nOdXGCQjrjyGuhl8JlhvQtSQCIz64Nr8jQbYZjAoX28",
+      "roleName": "3D Web Software Engineer",
+      "postedTime": "20h ago",
+      "type": "Part Time",
+      "location": "United States",
+      "website": "https://linkedin.com/Facebook",
+      "applicationLink": "https://linkedin.com/Facebook/apply",
+      "requirements": {
+        "intro": "Facebook's mission is to give people the power to build community and bring the world closer together. ",
+        "content": "Come work alongside expert software engineers and research scientists to create the technology that makes VR and AR pervasive and universal. Join the adventure of a lifetime as we make science fiction real and change the world.",
+        "items": [
+          "BS Computer Science or equivalent experience",
+          "3+ years of experience developing 3D/XR web applications or frameworks",
+          "5+ years of experience using JavaScript in a professional software development setting"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "company": "Jobot",
+      "logo": "https://media-exp1.licdn.com/dms/image/C560BAQEGgYq8v01oVg/company-logo_200_200/0/1620205047267?e=1632960000&v=beta&t=IwXDuGaCCMq-nL3_thY1tesHiJQkuIpqKowe_QZM3-0",
+      "roleName": "SR. Software Engineer - Python Django",
+      "postedTime": "1d ago",
+      "type": "Part Time",
+      "location": "United States",
+      "website": "https://linkedin.com/Jobot",
+      "applicationLink": "https://linkedin.com/Jobot/apply",
+      "requirements": {
+        "intro": "Are you a fit? Easy Apply now by clicking the 'Apply' button and sending us your resume.",
+        "content": "We're looking for Sr. level backend software engineers that have at least 7 years of writing code for web-based Python applications.",
+        "items": [
+          "You will need at least 3 years of writing Python Django applications and at least 10 years of software engineering experience.",
+          "The frontend of this application is written in React.js - if you are comfortable in a full-stack role, then even better, but not a requirement.",
+          "Ideally, you have tenure in all of the companies you've worked for, so you can show growth and technical challenges that you've overcome over time."
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "company": "SpringbokIT",
+      "logo": "https://media-exp1.licdn.com/dms/image/C560BAQFVeIIhYnGo6g/company-logo_200_200/0/1566232530771?e=1632960000&v=beta&t=tfQAp5vydhZo-j54X4RyBaycug52wjWTE2fQkuFnEhI",
+      "roleName": "Frontend Content Developer",
+      "postedTime": "2d ago",
+      "type": "Full Time",
+      "location": "United States",
+      "website": "https://linkedin.com/SpringbokIT",
+      "applicationLink": "https://linkedin.com/SpringbokIT/apply",
+      "requirements": {
+        "intro": "A global leader in the retail space has migrated to Salesforce and is looking to add to its content development team. ",
+        "content": "The company holds a “Greater Together” mentality and the Content Production Manager, to which this role reports, embodies that mantra. ",
+        "items": [
+          "Experience with Salesforce Commerce Cloud (SFCC) Business Manager",
+          "HTML, CSS, Javascript, and Bootstrap",
+          "Experience working with a collaborative group in a process-oriented production environment."
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "company": "Dice",
+      "logo": "https://media-exp1.licdn.com/dms/image/C560BAQEYK67Tel_mng/company-logo_200_200/0/1624162747433?e=1632960000&v=beta&t=F2NDtQwFDzIZzYfL2hVY6Ik7jY1uAXX43F8u0b_qRG0",
+      "roleName": "Front End Developer",
+      "postedTime": "2d ago",
+      "type": "Part Time",
+      "location": "United States",
+      "website": "https://linkedin.com/Dice",
+      "applicationLink": "https://linkedin.com/Dice/apply",
+      "requirements": {
+        "intro": "Dice is the leading career destination for tech experts at every stage of their careers. Our client, TrustMinds, Inc., is seeking the following. Apply via Dice today!",
+        "content": "Seeking front end developers to build and maintain websites, landing pages, and display ad banners using HTMLCSSJavaScript to build responsive designs from provided mockups ",
+        "items": [
+          "advanced HTML, CSS, and JavaScript",
+          "build systems based on NPM, Gulp, Webpack, Sass",
+          "should feel confident using GitGitflow branching strategies"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "company": "The Population Project",
+      "logo": "https://media-exp1.licdn.com/dms/image/C560BAQHqd8XtvITvMw/company-logo_200_200/0/1620162734126?e=1632960000&v=beta&t=s_UAIFXLLnVUJJnlpd1X686SWG-7I3IjyyYwA5p-WNM",
+      "roleName": "CTO / Co-founder",
+      "postedTime": "2d ago",
+      "type": "Part Time",
+      "location": "United States",
+      "website": "https://linkedin.com/ThePopulationProject",
+      "applicationLink": "https://linkedin.com/ThePopulationProject/apply",
+      "requirements": {
+        "intro": "The Population Project, a non-profit organization striving to list the name and date of birth of all humans alive, is looking for its CTO / technical co-founder.",
+        "content": "This is a non- to low-paying position, requiring 10 to 40 hours a week depending on your involvement.",
+        "items": [
+          "Maintaining a large Postgres AWS-hosted database",
+          "Building the next version of our website when we decide to publicly expose our data",
+          "Monitoring the Wrike and Discord collaboration platforms with which we interact with our volunteers"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "company": "Georgia IT, Inc.",
+      "logo": "https://media-exp1.licdn.com/dms/image/C510BAQHTI2pFWjn2UA/company-logo_200_200/0/1519897797698?e=1632960000&v=beta&t=5H-Vp8dCcXJ8fICwNGmB2YQzJYqyimjkZFYF-4j5fj0",
+      "roleName": "Full Stack Engineer - REMOTE or Onsite",
+      "postedTime": "2d ago",
+      "type": "Part Time",
+      "location": "United States",
+      "website": "https://linkedin.com/GeorgiaITInc",
+      "applicationLink": "https://linkedin.com/GeorgiaITInc/apply",
+      "requirements": {
+        "intro": "This company hasn't provided an intro.",
+        "content": "Able to interface with customer digital sales and lead generation tools and following the lead into their CRM (SalesForce) system for conversion by an agent.",
+        "items": [
+          "US Citizens and Green Card Only, No third party",
+          "Engineers with solid JavaScript and AWS background.",
+          "Experience in React.JS, Node.JS, and Angular is preferred"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "company": "Michael Page",
+      "logo": "https://media-exp1.licdn.com/dms/image/C560BAQFWT_CW-6Hd2Q/company-logo_200_200/0/1623848489646?e=1632960000&v=beta&t=eyDm2mqsK9xeBZawTXTUsBYze8WRduxd3uukb4T26Ao",
+      "roleName": "Frontend Software Engineer Remote Banking $130k/yr",
+      "postedTime": "2d ago",
+      "type": "Part Time",
+      "location": "United States",
+      "website": "https://linkedin.com/MichaelPage",
+      "applicationLink": "https://linkedin.com/MichaelPage/apply",
+      "requirements": {
+        "intro": "This company is a Boston based company that partners with hundreds of banks and credit unions. Voted one of the fastest growing FinTech companies in the world in 2020, our client strives to produce a product to help streamline the banking industry.",
+        "content": "Tech Stack: Typescript, JavaScript, Angular, AWS, CSS",
+        "items": [
+          "4+ years of hands on development experience",
+          "Experience in frontend development using Typescript, JavaScript and Angular",
+          "Experience delivering applications using AWS"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "company": "GAOTek Inc.",
+      "logo": "https://media-exp1.licdn.com/dms/image/C510BAQGg0dos_fVHhA/company-logo_200_200/0/1567998421321?e=1632960000&v=beta&t=X7EYf4jI7lCJfyrtzOKhv2bkz4rrML4AmbMN1g1jqLY",
+      "roleName": "Software Development Intern (Virtual)",
+      "postedTime": "2d ago",
+      "type": "Part Time",
+      "location": "United States",
+      "website": "https://linkedin.com/GAOTekInc",
+      "applicationLink": "https://linkedin.com/GAOTekInc/apply",
+      "requirements": {
+        "intro": "You shall be keen to learn, willing to work hard, maintaining productivity and committed to the job. ",
+        "content": "This position is for those who are currently residing in the US and have the correct VISA to work in the country.",
+        "items": [
+          "Software development plans",
+          "Software architecture",
+          "White papers"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "company": "RemoteHub",
+      "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQGQ_EPbBXR8Hg/company-logo_200_200/0/1604324330666?e=1632960000&v=beta&t=53alZNNXv3B7o_J5jHG4pe7plcWIMBB8kdgxS1ooMCQ",
+      "roleName": "Work from Home Opportunities",
+      "postedTime": "2d ago",
+      "type": "Part Time",
+      "location": "United States",
+      "website": "https://linkedin.com/RemoteHub",
+      "applicationLink": "https://linkedin.com/RemoteHub/apply",
+      "requirements": {
+        "intro": "Appen is a global leader in speech and search technology services and we have several part time work from home opportunities that you can apply for!",
+        "content": "We are looking for applicants for an exciting work from home opportunity. Applicants must be self-motivated and internet savvy and there is no previous work experience or college degree required to apply for our jobs.",
+        "items": [
+          "Linguistic Specialties (Text to Speech, Computational, Phonetics, Pronunciation, Annotation, etc.)",
+          "Social Media Evaluation (Help improve social media around the globe)",
+          "Search Engine Evaluation (Work with the world’s top search engine companies)"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "company": "Suncap Technology",
+      "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQEROuteF2F3gQ/company-logo_200_200/0/1555514992609?e=1632960000&v=beta&t=7P8pg3cma4GKzE6l7SmGRp-zjdd_WC_KSkMEwGzmWAw",
+      "roleName": "Front-end Web Developer /Remote (San Bruno, CA Post Covid) 12 mth+ contract",
+      "postedTime": "2d ago",
+      "type": "Part Time",
+      "location": "United States",
+      "website": "https://linkedin.com/SuncapTechnology",
+      "applicationLink": "https://linkedin.com/SuncapTechnology/apply",
+      "requirements": {
+        "intro": "This company hasn't provided an intro.",
+        "content": "Front-end Web Developer includes:",
+        "items": [
+          "Design, and develop Web and Mobile Web pages",
+          "Effectively collaborate with Product, UX, and Marketing teams",
+          "Provide subject matter expertise for web and mobile web responsive designs"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "company": "HomeLister",
+      "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQHCaYJPwpvdIQ/company-logo_200_200/0/1519892616664?e=1632960000&v=beta&t=SFdjFVBx6X3Ynpxd2SrxF9lbBufwgSNqf-SGQZ3vJcE",
+      "roleName": "Data Entry Specialist - Full Time - Work From Home",
+      "postedTime": "2d ago",
+      "type": "Part Time",
+      "location": "United States",
+      "website": "https://linkedin.com/HomeLister",
+      "applicationLink": "https://linkedin.com/HomeLister/apply",
+      "requirements": {
+        "intro": "[Office Assistant / Remote] - Anywhere in U.S. / up to $44k-yr / Medical-Dental-PTO-401(k) Matching / Real Estate Experience Not Required",
+        "content": "As a Data Entry Specialist you'll: Gain valuable experience learning about residential real estate, and join a great team;",
+        "items": [
+          "Be proficient at standard office software",
+          "Quick to learn new programs",
+          "Possess excellent written and verbal communication skills"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "company": "WMI Worldwide",
+      "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQESmXHE28MpUw/company-logo_200_200/0/1519905226668?e=1632960000&v=beta&t=gi-x1SZrOMdTO-Oc6sdZ-G7UDr8Y5M7ixo5ddribOKk",
+      "roleName": "Software Engineer II",
+      "postedTime": "2d ago",
+      "type": "Part Time",
+      "location": "United States",
+      "website": "https://linkedin.com/WMIWorldwide",
+      "applicationLink": "https://linkedin.com/WMIWorldwide/apply",
+      "requirements": {
+        "intro": "Our client's game inspires millions to create together, connects people across the globe, and brings together a community that is among the most active and passionate in the world. The team is looking for a developer to lead and drive the timely delivery of next generation game technology and foundations.",
+        "content": "The Software Engineer II has built large-scale cloud services running in Azure and will take end-to-end ownership for development and quality of products and services that delight customers and add strategic value to our client. ",
+        "items": [
+          "Developing and coordinating features using Microsoft Azure compute and storage",
+          "Defining initiatives that impact our games",
+          "Ensuring timely, high quality deliverables"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "company": "RIT Solutions, Inc.",
+      "logo": "https://media-exp1.licdn.com/dms/image/C560BAQEP3xJYibhYmQ/company-logo_200_200/0/1595879151058?e=1632960000&v=beta&t=19s3Bsxz2fGxZoJ_ybc4BJ4SbCQopUPcAC6NZ601T-Y",
+      "roleName": "UI developer - REMOTE",
+      "postedTime": "2d ago",
+      "type": "Part Time",
+      "location": "United States",
+      "website": "https://linkedin.com/RITSolutionsInc",
+      "applicationLink": "https://linkedin.com/RITSolutionsInc/apply",
+      "requirements": {
+        "intro": "Looking for a UI Developer with a strong background in ReactJS. ",
+        "content": "Must have strong exp. with ReactJs ",
+        "items": [
+          "Have 8+ years of experience developing software apps",
+          "HTML, CSS, Responsive Web",
+          "HTML, CSS, Responsive Web JSON, XML and Agile"
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "company": "RemoteHub",
+      "logo": "https://media-exp1.licdn.com/dms/image/C560BAQH3PRxm6epbWg/company-logo_200_200/0/1519887943661?e=1632960000&v=beta&t=Jiyz0IaBcktNiy4SqWZr8ZD2sFw-fPgPkqlRtIF57gE",
+      "roleName": "Freelance Data Entry Associate (Work From Home)",
+      "postedTime": "2d ago",
+      "type": "Part Time",
+      "location": "United States",
+      "website": "https://linkedin.com/RemoteHub",
+      "applicationLink": "https://linkedin.com/RemoteHub/apply",
+      "requirements": {
+        "intro": "Anywhere in U.S. / Competitive pay / Contract position with potential for future assignments",
+        "content": "As a Data Entry Associate you'll: Assist in the creation of content;",
+        "items": [
+          "Compile and sort information to prepare source data",
+          "Review data for deficiencies or errors",
+          "Retrieve data from the database or electronic files as requested"
+        ]
+      }
+    },
+    {
+      "logo": "https://1000logos.net/wp-content/uploads/2016/11/New-Google-Logo.jpg",
+      "roleName": "Senior Developer | Google",
+      "requirements": {
+        "content": "Senior Developer | Google Senior Developer | GoogleSenior Developer | GoogleSenior Developer | Google"
+      },
+      "id": 16
+    },
+    {
+      "logo": "data:image/png;base64,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",
+      "roleName": "Junior Developer | Amazon",
+      "requirements": {
+        "content": "Junior Developer | AmazonJunior Developer | AmazonJunior Developer | AmazonJunior Developer | AmazonJunior Developer | AmazonJunior Developer | Amazon"
+      },
+      "id": 17
+    }
+  ]
+}

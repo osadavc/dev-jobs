@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Add New Job | DevJobs</title>
+
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <header>
+      <div class="header-container max-width">
+        <div class="left">
+          <div class="logo">
+            <img
+              src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/284832/settings_images/rLlCifhXRJiT0RoN2FjK_Logo_roundbackground_black.png"
+            />
+          </div>
+          <span>CleverJobs</span>
+        </div>
+
+        <div class="right">
+          <div class="add-new"><a href="/">See Jobs</a></div>
+        </div>
+      </div>
+    </header>
+
+    <main class="new-job max-width">
+      <input type="text" placeholder="Job Title" required id="jobTitle" />
+      <input type="text" placeholder="Job Image Link" id="jobImage" />
+      <textarea
+        placeholder="Job Description"
+        cols="30"
+        rows="10"
+        id="jobDescription"
+        required
+      ></textarea>
+
+      <button class="new-job-submit" type="button">Add Job</button>
+    </main>
+
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.21.1/axios.min.js"
+      integrity="sha512-bZS47S7sPOxkjU/4Bt0zrhEtWx0y0CRkhEp8IckzK+ltifIIE9EMIMTuT/mEzoIMewUINruDBIR/jJnbguonqQ=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+    <script src="./js/new-job.js"></script>
+  </body>
+</html>
